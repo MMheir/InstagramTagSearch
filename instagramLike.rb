@@ -16,7 +16,7 @@ WatirDrops::PageObject.browser.window.maximize
 
 @browser.button(:text => 'Se connecter').click
 
-@browser.text_field(:class => "_avvq0 _o716c").set("#night")
+@browser.text_field(:class => "_avvq0 _o716c").set("#travel")
 @browser.div(:class => "_t3f9x").click
 
 @browser.div(:class => "_mck9w _gvoze _tn0ps").click
