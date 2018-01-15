@@ -22,4 +22,3 @@ WatirDrops::PageObject.browser.window.maximize
 @browser.div(:class => "_mck9w _gvoze _tn0ps").click
 
 @browser.link(:class => "_eszkz _l9yih").click
-sleep (10)
